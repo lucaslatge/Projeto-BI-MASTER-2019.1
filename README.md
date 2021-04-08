@@ -1,4 +1,6 @@
-# Projeto-BI-MASTER-2019.1
-Projeto de conclusão de curso do BI MASTER 2019.1 - PUC Rio
+## Projeto-Final-BI-MASTER-2019.1 ##
 
 
+UTILIZAÇÃO DO MODELO DE PERFORMANCE FUZZY TOPSIS
+
+1. 
