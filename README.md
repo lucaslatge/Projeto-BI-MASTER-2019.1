@@ -50,4 +50,4 @@ EB - Extremamente Baixo | MB - Muito Baixo | B - Baixo | M - Médio | A - Alto |
 9. 
 -----------------------------------------------------------------
 
-Para mais detalhes sobre o método utilizado neste modelo e a forma como são realizados os cálculos, consulte o relatório disponível neste repositório
+Para mais detalhes sobre o contexto deste projeto, os métodos utilizados neste modelo e a forma como são realizados os cálculos, consulte o relatório disponível neste repositório
