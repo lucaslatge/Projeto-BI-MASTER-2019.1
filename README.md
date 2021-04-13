@@ -12,7 +12,10 @@ O modelo pode ser utilizado tanto a partir do script quanto na forma de programa
 Para rodar o modelo diretamente a partir do script, é necessário ter o programa MATLAB instalado.
 
 
-- PASSO A PASSO PARA UTILIZAÇÃO DO MODELO DE PERFORMANCE FUZZY TOPSIS - A PARTIR DO EXECUTÁVEL:
+
+
+
+PASSO A PASSO PARA UTILIZAÇÃO DO MODELO DE PERFORMANCE FUZZY TOPSIS - A PARTIR DO EXECUTÁVEL:
 
 1. Inicie o instalador do programa
 2. Certifique-se de instalar o MATLAB Runtime, ele é necessário para a execução do programa
@@ -29,7 +32,9 @@ EB - Extremamente Baixo | MB - Muito Baixo | B - Baixo | M - Médio | A - Alto |
 
 
 
-- PASSO A PASSO PARA UTILIZAÇÃO DO MODELO DE PERFORMANCE FUZZY TOPSIS - A PARTIR DO SCRIPT NO MATLAB:
+
+
+PASSO A PASSO PARA UTILIZAÇÃO DO MODELO DE PERFORMANCE FUZZY TOPSIS - A PARTIR DO SCRIPT NO MATLAB:
 
 1. Abra o MATLAB instalado em sua máquina
 2. Com o programa aberto, abra o script "ModeloFuzzy.m"
