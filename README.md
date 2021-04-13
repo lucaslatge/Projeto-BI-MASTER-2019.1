@@ -12,7 +12,7 @@ O modelo pode ser utilizado tanto a partir do script quanto na forma de programa
 Para rodar o modelo diretamente a partir do script, é necessário ter o programa MATLAB instalado.
 
 
-
+--------------------------------------------------------------------
 
 
 PASSO A PASSO PARA UTILIZAÇÃO DO MODELO DE PERFORMANCE FUZZY TOPSIS - A PARTIR DO EXECUTÁVEL:
@@ -31,7 +31,7 @@ EB - Extremamente Baixo | MB - Muito Baixo | B - Baixo | M - Médio | A - Alto |
 9. O modelo irá executar o cálculo e exibir o ranking dos navios de acordo com o Coeficiente de Proximidade (CCi) obtido.
 
 
-
+-----------------------------------------------------------------
 
 
 PASSO A PASSO PARA UTILIZAÇÃO DO MODELO DE PERFORMANCE FUZZY TOPSIS - A PARTIR DO SCRIPT NO MATLAB:
@@ -50,4 +50,4 @@ EB - Extremamente Baixo | MB - Muito Baixo | B - Baixo | M - Médio | A - Alto |
 9. 
 -----------------------------------------------------------------
 
-Para mais detalhes sobre o método utilizado neste modelo e a forma que são realizados os cálculos, consulte o relatório disponível neste repositório
+Para mais detalhes sobre o método utilizado neste modelo e a forma como são realizados os cálculos, consulte o relatório disponível neste repositório
