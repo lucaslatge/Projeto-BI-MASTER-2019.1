@@ -47,7 +47,7 @@ PASSO A PASSO PARA UTILIZAÇÃO DO MODELO DE PERFORMANCE FUZZY TOPSIS - A PARTIR
 EB - Extremamente Baixo | MB - Muito Baixo | B - Baixo | M - Médio | A - Alto | MA - Muito Alto | EA - Extremamente Alto
 
 8. O modelo irá executar o cálculo e exibir o ranking dos navios de acordo com o Coeficiente de Proximidade (CCi) obtido.
-9. 
+
 -----------------------------------------------------------------
 
 Para mais detalhes sobre o contexto deste projeto, os métodos utilizados neste modelo e a forma como são realizados os cálculos, consulte o relatório disponível neste repositório
