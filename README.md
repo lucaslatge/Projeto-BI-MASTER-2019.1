@@ -1,6 +1,7 @@
 ## Projeto-Final-BI-MASTER-2019.1 ##
 
->> Modelo Fuzzy TOPSIS para avaliação de performance de uma frota de navios <<
+* Modelo Fuzzy TOPSIS para avaliação de performance de uma frota de navios
+
 
 Este modelo utiliza uma base de dados composta de alternativas e critérios para expressar numericamente o navio que apresenta a melhor performance dentro de uma frota.
 O método de computação empregado é o Fuzzy TOPSIS, extremamente eficiente quando há elementos subjetivos envolvidos no processo de decisão.
