@@ -38,15 +38,16 @@ PASSO A PASSO PARA UTILIZAÇÃO DO MODELO DE PERFORMANCE FUZZY TOPSIS - A PARTIR
 
 1. Abra o MATLAB instalado em sua máquina
 2. Com o programa aberto, abra o script "ModeloFuzzy.m"
-3. Execute o script
-4. Na janela que abrir, selecione o arquivo .csv da base de dados a ser utilizada. Consulte o relatório para mais detalhes sobre o formato exigido para a base de dados.
-5. Após carregar o arquivo .csv, selecione os critérios que deseja utilizar no cálculo.
-6. Na janela que abrir, classifique os critérios selecionados atribuindo o número 1 para critérios BENEFICIAIS (quanto maior o valor, melhor) e o número 0 para critérios NÃO-BENEFICIAIS (quanto menor o valor, melhor)
-7. Na próxima janela, insira as siglas dos pesos de cada critério selecionado de acordo com a correspondência abaixo:
+3. Adicione o arquivo de exemplo "Base de Dados.csv" (ou o arquivo de base de dados que possuir) ao diretório que está sendo utilizado pelo MATLAB
+4. Execute o script
+5. Na janela que abrir, selecione o arquivo .csv da base de dados a ser utilizada. Consulte o relatório para mais detalhes sobre o formato exigido para a base de dados.
+6. Após carregar o arquivo .csv, selecione os critérios que deseja utilizar no cálculo.
+7. Na janela que abrir, classifique os critérios selecionados atribuindo o número 1 para critérios BENEFICIAIS (quanto maior o valor, melhor) e o número 0 para critérios NÃO-BENEFICIAIS (quanto menor o valor, melhor)
+8. Na próxima janela, insira as siglas dos pesos de cada critério selecionado de acordo com a correspondência abaixo:
 
 EB - Extremamente Baixo | MB - Muito Baixo | B - Baixo | M - Médio | A - Alto | MA - Muito Alto | EA - Extremamente Alto
 
-8. O modelo irá executar o cálculo e exibir o ranking dos navios de acordo com o Coeficiente de Proximidade (CCi) obtido.
+9. O modelo irá executar o cálculo e exibir o ranking dos navios de acordo com o Coeficiente de Proximidade (CCi) obtido.
 
 -----------------------------------------------------------------
 
