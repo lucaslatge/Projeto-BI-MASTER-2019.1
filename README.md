@@ -57,6 +57,4 @@ Para mais detalhes sobre o contexto deste projeto, os métodos utilizados neste 
 
 
 ------------------------------------------------------------------
-LUCAS SANCHES LATGE
-BI MASTER 2019.1
-PUC-RIO
+LUCAS SANCHES LATGE * BI MASTER 2019.1 * PUC-RIO
