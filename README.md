@@ -11,7 +11,7 @@ Este projeto foi desenvolvido em MATLAB e compilado em um programa executável.
 O modelo pode ser utilizado tanto a partir do script quanto na forma de programa. Ambos possuem a mesma interface do usuário. 
 Para rodar o modelo diretamente a partir do script, é necessário ter o programa MATLAB instalado.
 
-Neste repositório se encontra uma base de dados em csv para testar o modelo.
+Neste repositório se encontra uma base de dados em csv ("Base de Dados.csv") que pode ser utilizada para testar o modelo.
 
 
 --------------------------------------------------------------------
@@ -54,3 +54,9 @@ EB - Extremamente Baixo | MB - Muito Baixo | B - Baixo | M - Médio | A - Alto |
 -----------------------------------------------------------------
 
 Para mais detalhes sobre o contexto deste projeto, os métodos utilizados neste modelo e a forma como são realizados os cálculos, consulte o relatório disponível neste repositório
+
+
+------------------------------------------------------------------
+LUCAS SANCHES LATGE
+BI MASTER 2019.1
+PUC-RIO
