@@ -11,6 +11,8 @@ Este projeto foi desenvolvido em MATLAB e compilado em um programa executável.
 O modelo pode ser utilizado tanto a partir do script quanto na forma de programa. Ambos possuem a mesma interface do usuário. 
 Para rodar o modelo diretamente a partir do script, é necessário ter o programa MATLAB instalado.
 
+Neste repositório se encontra uma base de dados em csv para testar o modelo.
+
 
 --------------------------------------------------------------------
 
