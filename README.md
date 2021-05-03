@@ -120,7 +120,9 @@ A extensão do método TOPSIS para um ambiente fuzzy foi proposta inicialmente p
 | **Extremamente Alto**  |         0,9         |        1         |          1          |
 
 
-
+\
+\
+\
 **5.**  **DESENVOLVIMENTO DO ALGORITMO**
 
 O método Fuzzy TOPSIS utiliza uma matriz de decisão que contém as alternativas e os critérios a serem avaliados. A partir dessa matriz inicial, são aplicados os cálculos subsequentes para chegar ao resultado final, o Coeficiente de Proximidade (CCi), que expressará numericamente a melhor alternativa disponível.    
