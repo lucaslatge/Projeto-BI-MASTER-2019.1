@@ -317,9 +317,8 @@ Abaixo segue um exemplo de uma das simulações, onde foram utilizados todos os 
 |        Total  de horas em downtime        |    MA    |      |        Total  de horas em downtime        |    EA    |
 |            Tempo  de contrato             |    EB    |      |            Tempo  de contrato             |    A     |
 |      Taxa  de retenção da tripulação      |    MA    |      |      Taxa  de retenção da tripulação      |    M     |
-
- 
-
+\
+\
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Ranking resultante da Avaliação 1**
 \
 ![rank1](https://github.com/lucaslatge/imagens/blob/main/rank1.jpg?raw=true)
