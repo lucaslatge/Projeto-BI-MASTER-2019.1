@@ -145,9 +145,8 @@ A seguir se encontra o detalhamento de cada etapa executada pelo algoritmo do mo
 
 
 Os critérios que serão utilizados no cálculo de performance são selecionados e então é criada a matriz de decisão.
-
-
-
+\
+\
 **2.** É realizada a normalização linear da matriz de decisão para tornar os dados adimensionais.
 
 Sendo D=x*ij* a matriz de decisão criada, onde x*ij* pertence a ℝ.
