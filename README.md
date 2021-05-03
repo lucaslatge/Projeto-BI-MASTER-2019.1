@@ -144,7 +144,8 @@ A seguir se encontra o detalhamento de cada etapa executada pelo algoritmo do mo
 | **Navio N** |                |                |         |                |
 
 
-
+\
+\
 Os critérios que serão utilizados no cálculo de performance são selecionados e então é criada a matriz de decisão.
 \
 \
