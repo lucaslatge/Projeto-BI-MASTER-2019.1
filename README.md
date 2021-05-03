@@ -285,9 +285,9 @@ Para alimentar e testar o modelo foi criada uma base de dados sintéticos relati
  
 
 Devido ao caráter complexo dos cálculos envolvidos, uma das metas deste projeto foi tentar democratizar a forma como este modelo pode ser utilizado pelas empresas. Buscou-se manter uma interface inteligível para o usuário comum, sem necessidade de conhecimento de linguagens de programação, softwares específicos ou grandes modificações para configurar o modelo aos seus requisitos. Para alcançar tal objetivo, o modelo foi compilado em uma aplicação executável, visualmente amigável e de uso intuitivo.
-
-
-
+\
+\
+\
 **7.**  **RESULTADOS**
 
 O modelo de performance Fuzzy TOPSIS desenvolvido neste projeto, onde a opinião dos especialistas de cada empresa acerca dos critérios avaliados é levada em consideração, permite uma análise mais precisa da performance da frota dentro dos parâmetros definidos nas políticas e metas definidas por cada empresa. Uma empresa X pode, por exemplo, dar mais importância para as emissões de gases poluentes pelos seus navios do que para o custo com a tripulação, o que não significa que todas as empresas adotem essa mesma postura. Uma outra empresa Y pode, por exemplo, estar comprometida financeiramente e adotou uma política rígida de redução de custos. Esta empresa Y, neste mesmo cenário, poderá dar uma importância muito maior aos custos com a tripulação em detrimento das emissões de gases poluentes.
