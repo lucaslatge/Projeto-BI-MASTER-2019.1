@@ -167,9 +167,8 @@ Os elementos da matriz normalizada são definidos conforme a expressão abaixo:
 \
 \
 **4.** São atribuídos valores linguísticos de importância para cada critério avaliado utilizando a escala abaixo:
-
- 
-
+\
+\
 **Tabela 3:** Valores linguísticos de peso
 
 | **Extremamente Baixo** | **EB** |
