@@ -320,13 +320,13 @@ Abaixo segue um exemplo de uma das simulações, onde foram utilizados todos os 
 
  
 
-&emsp;&emsp;&emsp;&emsp;&emsp;**Ranking resultante da Avaliação 1**
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Ranking resultante da Avaliação 1**
 
 ![rank1](https://github.com/lucaslatge/imagens/blob/main/rank1.jpg?raw=true)
 
  
 
-&emsp;&emsp;&emsp;&emsp;&emsp;**Ranking resultante da Avaliação 2**
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Ranking resultante da Avaliação 2**
 
 ![rank2](https://github.com/lucaslatge/imagens/blob/main/rank2.jpg?raw=true)
 
