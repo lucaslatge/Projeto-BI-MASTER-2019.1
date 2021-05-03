@@ -199,15 +199,14 @@ Os elementos da matriz normalizada são definidos conforme a expressão abaixo:
  
 
 As funções de pertinência correspondentes a cada valor linguístico são definidas conforme ilustra a figura abaixo:
-
+\
+\
 ![pert func](https://github.com/lucaslatge/imagens/blob/main/pert%20func.JPG?raw=true)
 
 ​								**Figura 4:** Funções de pertinência correspondentes aos pesos linguísticos.
-
- 
-
+\
+\
 Dessa forma, um peso fuzzy correspondente por exemplo a uma avaliação *Médio (M)* é representado pelo número fuzzy triangular *A=[0.3 , 0.5 , 0.7]*.
-
 \
 \
 **6.** São aplicados os pesos fuzzy (*w*) correspondentes aos elementos da matriz normalizada, obtendo-se dessa forma a matriz normalizada com pesos.
