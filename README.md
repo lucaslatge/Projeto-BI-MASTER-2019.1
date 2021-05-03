@@ -340,7 +340,7 @@ Realizando uma terceira simulação, utilizando exatamente os mesmos pesos da Av
 \
 \
 \
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Ranking resultante da Avaliação 3 - Apenas critérios operacionais selecionados**
+&emsp;&emsp;&emsp;&emsp;&emsp;**Ranking resultante da Avaliação 3 - Apenas critérios operacionais selecionados**
 \
 ![rank3](https://github.com/lucaslatge/imagens/blob/main/rank3.jpg?raw=true)
 \
