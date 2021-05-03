@@ -321,17 +321,17 @@ Abaixo segue um exemplo de uma das simulações, onde foram utilizados todos os 
  
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Ranking resultante da Avaliação 1**
-
+\
 ![rank1](https://github.com/lucaslatge/imagens/blob/main/rank1.jpg?raw=true)
-
- 
-
+\
+\
+\
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Ranking resultante da Avaliação 2**
-
+\
 ![rank2](https://github.com/lucaslatge/imagens/blob/main/rank2.jpg?raw=true)
-
-
-
+\
+\
+\
 Através dessa simulação foi possível notar que a percepção de quais navios têm a melhor performance na frota pode mudar completamente dependendo da forma de avaliação dos critérios envolvidos na análise. Uma mudança de direção na gestão da empresa, um acidente envolvendo uma embarcação da frota, uma mudança no mercado, todos estes fatores podem exercer influência na definição do grau de importância dos critérios, afetando consequentemente a performance das embarcações dentro deste novo cenário.
 
 Na simulação acima, em um cenário normal de mercado, o Navio E foi o que apresentou a melhor performance. Porém, ao dar mais ênfase ao aspecto financeiro, simulando por exemplo um período de crise na indústria marítima, o Navio B foi o que apresentou a melhor performance. Este mesmo navio, na primeira avaliação, ficou em 2º lugar no ranking.
