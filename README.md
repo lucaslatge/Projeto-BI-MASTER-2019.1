@@ -186,8 +186,6 @@ Os elementos da matriz normalizada são definidos conforme a expressão abaixo:
 \
 \
 **Tabela 4:** Escala de conversão dos pesos linguísticos para números fuzzy triangulares
-\
-
 |                        | **Limite Inferior** | **Limite Médio** | **Limite Superior** |
 | :--------------------: | :-----------------: | :--------------: | :-----------------: |
 | **Extremamente Baixo** |          0          |        0         |         0,1         |
