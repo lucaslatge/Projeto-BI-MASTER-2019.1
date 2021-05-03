@@ -204,7 +204,7 @@ As funções de pertinência correspondentes a cada valor linguístico são defi
 \
 ![pert func](https://github.com/lucaslatge/imagens/blob/main/pert%20func.JPG?raw=true)
 
-&emsp;&emsp;**Figura 4:** Funções de pertinência correspondentes aos pesos linguísticos.
+&emsp;&emsp;&emsp;&emsp;**Figura 4:** Funções de pertinência correspondentes aos pesos linguísticos.
 \
 \
 Dessa forma, um peso fuzzy correspondente por exemplo a uma avaliação *Médio (M)* é representado pelo número fuzzy triangular *A=[0.3 , 0.5 , 0.7]*.
