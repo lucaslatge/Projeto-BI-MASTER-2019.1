@@ -298,7 +298,7 @@ Abaixo segue um exemplo de uma das simulações, onde foram utilizados todos os 
 \
 \
 \
-​				 	**Avaliação 1 - Generalista**												**Avaliação 2 - Redução de Custos**
+&emsp;&emsp;&emsp;&emsp;**Avaliação 1 - Generalista**&emsp;&emsp;&emsp;&emsp;												**Avaliação 2 - Redução de Custos**
 
 |               **Critérios**               | **Peso** |      |               **Critérios**               | **Peso** |
 | :---------------------------------------: | :------: | ---- | :---------------------------------------: | :------: |
