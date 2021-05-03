@@ -217,7 +217,6 @@ Dessa forma, um peso fuzzy correspondente por exemplo a uma avaliação *Médio 
 Onde *Ñ*ij=(*wj1Nij, wj2Nij, wj3Nij*), sendo i=1,...,m e j=1,...,n.
 \
 \
-
 **7.** Calcula-se a Solução Fuzzy Ideal Positiva (*Fuzzy Positive Ideal Solution - FPIS*), representada por Ãj+ e a Solução Fuzzy Ideal Negativa (*Fuzzy Negative Ideal Solution - FNIS*), representada por Ãj-
 
 \- Para um critério beneficial (B), a solução ideal positiva (Ãj+) será o maior valor encontrado entre os critérios e a solução ideal negativa (Ãj-) será o menor valor encontrado.
