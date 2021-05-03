@@ -74,7 +74,7 @@ Na Figura 3, pode-se observar um exemplo de função de pertinência dentro de u
 
 
 
-​								![pert](E:\Users\DELL PC\Desktop\Arquivos GitHub\pert.JPG ) 
+​								![pert](https://github.com/lucaslatge/imagens/blob/main/pert.JPG?raw=true) 
 
  															**Figura 3:** Exemplo de Função de Pertinência
 
