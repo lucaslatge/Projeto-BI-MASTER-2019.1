@@ -152,11 +152,11 @@ Os critérios que serão utilizados no cálculo de performance são selecionados
 
 Sendo D=x*ij* a matriz de decisão criada, onde x*ij* pertence a ℝ.
 
-![eq1](E:\Users\DELL PC\Desktop\Arquivos GitHub\eq1.JPG)
+![eq1](https://github.com/lucaslatge/imagens/blob/main/eq1.JPG?raw=true)
 
 Os elementos da matriz normalizada são definidos conforme a expressão abaixo:
 
- 													![eq2](E:\Users\DELL PC\Desktop\Arquivos GitHub\eq2.JPG)
+ 													![eq2](https://github.com/lucaslatge/imagens/blob/main/eq2.JPG?raw=true)
 \
 \
 \
@@ -201,7 +201,7 @@ Os elementos da matriz normalizada são definidos conforme a expressão abaixo:
 
 As funções de pertinência correspondentes a cada valor linguístico são definidas conforme ilustra a figura abaixo:
 
-![pert func](E:\Users\DELL PC\Desktop\Arquivos GitHub\pert func.JPG)
+![pert func](https://github.com/lucaslatge/imagens/blob/main/pert%20func.JPG?raw=true)
 
 ​								**Figura 4:** Funções de pertinência correspondentes aos pesos linguísticos.
 
@@ -213,7 +213,7 @@ Dessa forma, um peso fuzzy correspondente por exemplo a uma avaliação *Médio 
 \
 **6.** São aplicados os pesos fuzzy (*w*) correspondentes aos elementos da matriz normalizada, obtendo-se dessa forma a matriz normalizada com pesos.
 
- ![eq4](E:\Users\DELL PC\Desktop\Arquivos GitHub\eq4.JPG) 
+ ![eq4](https://github.com/lucaslatge/imagens/blob/main/eq4.JPG?raw=true) 
 
 Onde *Ñ*ij=(*wj1Nij, wj2Nij, wj3Nij*), sendo i=1,...,m e j=1,...,n.
 \
@@ -225,21 +225,21 @@ Onde *Ñ*ij=(*wj1Nij, wj2Nij, wj3Nij*), sendo i=1,...,m e j=1,...,n.
 
 \- Para um critério não-beneficial (NB), a solução ideal positiva (Ãj+) será o menor valor encontrado entre os critérios e a solução ideal negativa (Ãj-) será o maior valor encontrado.
 
- 							![eq5](E:\Users\DELL PC\Desktop\Arquivos GitHub\eq5.JPG) 
+ 							![eq5](https://github.com/lucaslatge/imagens/blob/main/eq5.JPG?raw=true) 
 \
 \
  **8.** As distâncias euclidianas de cada alternativa para FPIS (representada por Si+) e para FNIS (representada por Si-) são calculadas através da fórmula:
 
-![eq6](E:\Users\DELL PC\Desktop\Arquivos GitHub\eq6.JPG)
+![eq6](https://github.com/lucaslatge/imagens/blob/main/eq6.JPG?raw=true)
 
 onde *d(. , .)* representa a distância entre dois números fuzzy triangulares [al, am, au] e  [bl, bm, bu], calculada por:
 
-![eq7](E:\Users\DELL PC\Desktop\Arquivos GitHub\eq7.JPG)
+![eq7](https://github.com/lucaslatge/imagens/blob/main/eq7.JPG?raw=true)
 \
 \
 **9.** Computa-se o coeficiente de proximidade CCi:
 
- 												![eq8](E:\Users\DELL PC\Desktop\Arquivos GitHub\eq8.JPG)	 
+ 												![eq8](https://github.com/lucaslatge/imagens/blob/main/eq8.JPG?raw=true)	 
 \
 \
 **10.** Com os valores de CCi computados, é feito o ranqueamento das alternativas.
@@ -324,13 +324,13 @@ Abaixo segue um exemplo de uma das simulações, onde foram utilizados todos os 
 
  															**Ranking resultante da Avaliação 1**
 
-![rank1](E:\Users\DELL PC\Desktop\Arquivos GitHub\rank1.jpg)
+![rank1](https://github.com/lucaslatge/imagens/blob/main/rank1.jpg?raw=true)
 
  
 
  															**Ranking resultante da Avaliação 2**
 
-![rank2](E:\Users\DELL PC\Desktop\Arquivos GitHub\rank2.jpg)
+![rank2](https://github.com/lucaslatge/imagens/blob/main/rank2.jpg?raw=true)
 
 
 
@@ -344,7 +344,7 @@ Realizando uma terceira simulação, utilizando exatamente os mesmos pesos da Av
 
  					**Ranking resultante da Avaliação 3 - Apenas critérios operacionais selecionados**
 
-![rank3](E:\Users\DELL PC\Desktop\Arquivos GitHub\rank3.jpg)
+![rank3](https://github.com/lucaslatge/imagens/blob/main/rank3.jpg?raw=true)
 
 
 
