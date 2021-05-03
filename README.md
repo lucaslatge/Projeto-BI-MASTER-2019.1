@@ -337,27 +337,27 @@ Através dessa simulação foi possível notar que a percepção de quais navios
 Na simulação acima, em um cenário normal de mercado, o Navio E foi o que apresentou a melhor performance. Porém, ao dar mais ênfase ao aspecto financeiro, simulando por exemplo um período de crise na indústria marítima, o Navio B foi o que apresentou a melhor performance. Este mesmo navio, na primeira avaliação, ficou em 2º lugar no ranking.
 
 Realizando uma terceira simulação, utilizando exatamente os mesmos pesos da Avaliação 1, porém selecionando apenas os critérios operacionais não relacionados a custo ou receita (número de acidentes, média das notas do BAD, pendências em inspeções, volume de lixo descartado, volume de lixo orgânico descartado e taxa de retenção da tripulação), obtém-se um ranking de performance consideravelmente diferente, conforme observado abaixo:
-
- 
-
- 					**Ranking resultante da Avaliação 3 - Apenas critérios operacionais selecionados**
-
+\
+\
+\
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Ranking resultante da Avaliação 3 - Apenas critérios operacionais selecionados**
+\
 ![rank3](https://github.com/lucaslatge/imagens/blob/main/rank3.jpg?raw=true)
-
-
-
+\
+\
+\
 É possível realizar simulações de diferentes maneiras utilizando este modelo. Pode-se por exemplo avaliar a performance da frota utilizando critérios relacionados apenas a uma única área operacional, como “Meio Ambiente” ou “Tripulação”. Dessa forma é possível que a ferramenta seja utilizada tanto de forma unificada pela empresa, aplicando todas as suas políticas em vigor quanto por departamentos isolados que buscam entender como suas ações estão impactando a performance geral da frota. 
-
-
-
+\
+\
+\
 **8.**  **CONCLUSÃO**
 
 A indústria marítima ainda vive o início da transição para a era digital. A tradicionalidade sempre foi um traço muito marcante dessa indústria, onde mudanças e renovações na forma de gestão do negócio nem sempre são bem aceitas e adotadas amplamente. Porém, no cenário que existe atualmente, com milhares de dados sendo gerados a cada minuto na operação de navios, há uma oportunidade incrível para aplicação de ferramentas de interpretação e análise de dados. Se aplicados da forma correta, estes dados podem proporcionar uma percepção sobre aspectos do negócio que antes não se considerava ou simplesmente não se sabia que existiam. 
 
 O desenvolvimento e a difusão do uso de soluções como esta vai proporcionar à indústria marítima a possibilidade de evoluir a forma como se gerencia uma frota de navios, com ferramentas para transformar dados em uma base para tomada de decisão, entendendo falhas e planejando ações futuras tendo a precisão e confiança de indicadores matemáticos. 
-
-
-
+\
+\
+\
 **REFERÊNCIA BIBLIOGRÁFICA**
 
 [1] Zadeh, L.A. Fuzzy sets. Information and control, vol. 8, pp. 338–353, 1965.
