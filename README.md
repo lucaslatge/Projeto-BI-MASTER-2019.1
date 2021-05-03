@@ -241,9 +241,9 @@ onde *d(. , .)* representa a distância entre dois números fuzzy triangulares [
 \
 \
 **10.** Com os valores de CCi computados, é feito o ranqueamento das alternativas.
-
- 
-
+\
+\
+\
 **6.**  **DESENVOLVIMENTO DA SOLUÇÃO**
 
 Para o desenvolvimento do modelo de avaliação de performance da frota foi empregado o método Fuzzy TOPSIS. A plataforma selecionada para o desenvolvimento do código do algoritmo foi o software MATLAB, pela forma otimizada que esta ferramenta trabalha com cálculos envolvendo matrizes e pelos recursos disponíveis para a criação de uma aplicação executável fora da plataforma.
