@@ -83,6 +83,7 @@ Na Figura 3, pode-se observar um exemplo de função de pertinência dentro de u
 Utilizando este método é possível modelar problemas de forma muito mais intuitiva e próxima ao raciocínio humano.
 \
 \
+\
 *b.*  *MCDM*
 
 Tomada de decisão com múltiplos critérios (MCDM - Multiple Criteria Decision Making) é um dos ramos mais consideráveis da ciência da tomada de decisão (DM – Decision Making). Os métodos MCDM abrangem a tomada de decisão na presença de critérios múltiplos e algumas vezes conflitantes.
@@ -94,12 +95,13 @@ Atualmente há estudos nas mais variadas áreas para aplicação de métodos MCD
 Processos de cálculo de performance podem ser altamente complexos de se modelar utilizando modelos matemáticos simples, pois envolvem diversos dados e critérios subjetivos. É necessário que um modelo traduza precisamente a intenção do tomador de decisão ao realizar o cálculo, evitando que sejam geradas contradições na classificação dos critérios. Dessa forma, o modelo de cálculo de performance deste projeto é considerado um processo MCDM, sendo necessário empregar um método adequado de tomada de decisão para alcançar o resultado desejado.
 \
 \
+\
 *c.*  *TOPSIS*
 
 A Técnica para Ordem de Preferência por Similaridade a Solução Ideal (TOPSIS) é atualmente um dos métodos mais populares de MCDM e tem sido aplicada com sucesso nas mais diversas áreas. Este método foi inicialmente desenvolvido por Hwang and Yoon [2] em 1981 para a solução de problemas MCDM e tem como princípio básico a seleção da alternativa com a menor distância da solução ideal positiva (a melhor opção) e a maior distância da solução ideal negativa (a pior opção). Usando normalização de vetores e aplicando pesos aos critérios avaliados, o método tem por finalidade ranquear as alternativas pelo valor obtido de Coeficiente de Proximidade (Closeness Coefficient – CCi). Este coeficiente indica as melhores alternativas dentro do cenário proposto, considerando os critérios e pesos definidos pelos especialistas.
-
-
-
+\
+\
+\
 *d.*  *Fuzzy TOPSIS*
 
 A extensão do método TOPSIS para um ambiente fuzzy foi proposta inicialmente por Chen [3], utilizando números fuzzy triangulares para substituir os valores numéricos das escalas linguísticas de peso. Através dele, o grau de importância dos pesos dos vários critérios avaliados é expresso por valores linguísticos. Estes valores linguísticos são então traduzidos para números fuzzy triangulares. A tabela abaixo ilustra um exemplo de conversão de valores linguísticos para números fuzzy triangulares.
@@ -117,9 +119,9 @@ A extensão do método TOPSIS para um ambiente fuzzy foi proposta inicialmente p
 |        **Alto**        |         0,5         |       0,7        |         0,9         |
 |     **Muito Alto**     |         0,7         |       0,9        |          1          |
 | **Extremamente Alto**  |         0,9         |        1         |          1          |
-
- 
-
+\
+\
+\
 **5.**  **DESENVOLVIMENTO DO ALGORITMO**
 
 O método Fuzzy TOPSIS utiliza uma matriz de decisão que contém as alternativas e os critérios a serem avaliados. A partir dessa matriz inicial, são aplicados os cálculos subsequentes para chegar ao resultado final, o Coeficiente de Proximidade (CCi), que expressará numericamente a melhor alternativa disponível.    
