@@ -76,7 +76,7 @@ Na Figura 3, pode-se observar um exemplo de função de pertinência dentro de u
 \
 ​								![pert](https://github.com/lucaslatge/imagens/blob/main/pert.JPG?raw=true) 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;**Figura 3:** Exemplo de Função de Pertinência
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Figura 3:** Exemplo de Função de Pertinência
 \
 \
 \
