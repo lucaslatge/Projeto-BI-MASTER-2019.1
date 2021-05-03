@@ -109,7 +109,7 @@ A extensão do método TOPSIS para um ambiente fuzzy foi proposta inicialmente p
 \
 \
 **Tabela 1:** Conversão de valores linguísticos para números fuzzy triangulares
-\
+
 |                        | **Limite Inferior** | **Limite Médio** | **Limite Superior** |
 | :--------------------: | :-----------------: | :--------------: | :-----------------: |
 | **Extremamente Baixo** |          0          |        0         |         0,1         |
