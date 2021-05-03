@@ -147,6 +147,7 @@ A seguir se encontra o detalhamento de cada etapa executada pelo algoritmo do mo
 Os critérios que serão utilizados no cálculo de performance são selecionados e então é criada a matriz de decisão.
 \
 \
+\
 **2.** É realizada a normalização linear da matriz de decisão para tornar os dados adimensionais.
 
 Sendo D=x*ij* a matriz de decisão criada, onde x*ij* pertence a ℝ.
@@ -158,11 +159,11 @@ Os elementos da matriz normalizada são definidos conforme a expressão abaixo:
  													![eq2](E:\Users\DELL PC\Desktop\Arquivos GitHub\eq2.JPG)
 \
 \
-
- **3.** É realizada a definição de cada critério como beneficial ou não-beneficial. Esta definição é essencial para que em uma etapa posterior o algoritmo aplique o cálculo correto conforme a classificação atribuída a cada critério. Para um critério beneficial, quanto maior o valor, melhor. Para um critério não-beneficial, quanto menor o valor, melhor. 
+\
+**3.** É realizada a definição de cada critério como beneficial ou não-beneficial. Esta definição é essencial para que em uma etapa posterior o algoritmo aplique o cálculo correto conforme a classificação atribuída a cada critério. Para um critério beneficial, quanto maior o valor, melhor. Para um critério não-beneficial, quanto menor o valor, melhor. 
 \
 \
-
+\
 **4.** São atribuídos valores linguísticos de importância para cada critério avaliado utilizando a escala abaixo:
 
  
