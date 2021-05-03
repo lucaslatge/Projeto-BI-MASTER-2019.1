@@ -49,9 +49,8 @@ Este trabalho consistiu no desenvolvimento de um modelo para cálculo de perform
 *a.*  *Lógica Fuzzy*
 
 Seres humanos sempre precisam tomar decisões. Se os tomadores de decisão utilizarem a lógica tradicional, tais decisões serão do tipo sim ou não, preto ou branco, bom ou ruim, 1 ou 0. Porém, problemas reais não existem nestes termos absolutos. Em outras palavras, entre a definição de uma cor em preta ou branca, existem diversos tons de cinza, conforme ilustra a Figura 1 abaixo.
-
-
-
+\
+\
 ​				![logica](https://github.com/lucaslatge/imagens/blob/main/logica.JPG?raw=true) 
 
 ​								**Figura 1:** Exemplo de definição de categoria utilizando lógica fuzzy
