@@ -197,7 +197,8 @@ Os elementos da matriz normalizada são definidos conforme a expressão abaixo:
 | **Extremamente Alto**  |         0,9         |        1         |          1          |
 
  
-
+\
+\
 As funções de pertinência correspondentes a cada valor linguístico são definidas conforme ilustra a figura abaixo:
 \
 \
