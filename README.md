@@ -66,7 +66,7 @@ A lógica Fuzzy é uma técnica robusta para determinação e resolução de pro
 \
 ​										![agua](https://github.com/lucaslatge/imagens/blob/main/agua.JPG?raw=true) 
 
-​							       			**Figura 2:** Expressão de problema real através da lógica fuzzy
+​							       			&emsp;**Figura 2:** Expressão de problema real através da lógica fuzzy
 
 
 
