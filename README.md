@@ -52,7 +52,6 @@ Seres humanos sempre precisam tomar decisões. Se os tomadores de decisão utili
 \
 \
 \
-\
 ​				![logica](https://github.com/lucaslatge/imagens/blob/main/logica.JPG?raw=true) 
 
 ​								**Figura 1:** Exemplo de definição de categoria utilizando lógica fuzzy
@@ -62,10 +61,10 @@ Seres humanos sempre precisam tomar decisões. Se os tomadores de decisão utili
 A partir desta definição, estudos acadêmicos buscaram encontrar uma forma de incluir a incerteza no processo de tomada de decisão. A lógica Fuzzy é um destes métodos científicos encontrados [1].    
 
 A lógica Fuzzy é uma técnica robusta para determinação e resolução de problemas reais complexos, onde existe incerteza e indefinição. Ao utilizar graus de pertinência ao invés de valores absolutos, a lógica fuzzy proporciona ao tomador de decisão a possibilidade de usar valores intervalares na resolução de problemas, o que faz com que o problema matemático seja retratado de forma mais precisa e próxima da realidade. Conforme observa-se na figura 2 abaixo, a expressão de um simples problema do mundo real, como é a configuração de temperatura da água, tem um resultado mais próximo do esperado ao se utilizar a lógica fuzzy. 
-
-
-
-​										![agua](E:\Users\DELL PC\Desktop\Arquivos GitHub\agua.JPG) 
+\
+\
+\
+​										![agua](https://github.com/lucaslatge/imagens/blob/main/agua.JPG?raw=true) 
 
 ​										**Figura 2:** Expressão de problema real através da lógica fuzzy
 
