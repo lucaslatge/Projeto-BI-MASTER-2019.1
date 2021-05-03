@@ -145,8 +145,8 @@ A seguir se encontra o detalhamento de cada etapa executada pelo algoritmo do mo
 
 
 Os critérios que serão utilizados no cálculo de performance são selecionados e então é criada a matriz de decisão.
-
-
+\
+\
 
 **2.** É realizada a normalização linear da matriz de decisão para tornar os dados adimensionais.
 
@@ -157,12 +157,12 @@ Sendo D=x*ij* a matriz de decisão criada, onde x*ij* pertence a ℝ.
 Os elementos da matriz normalizada são definidos conforme a expressão abaixo:
 
  													![eq2](E:\Users\DELL PC\Desktop\Arquivos GitHub\eq2.JPG)
-
-
+\
+\
 
  **3.** É realizada a definição de cada critério como beneficial ou não-beneficial. Esta definição é essencial para que em uma etapa posterior o algoritmo aplique o cálculo correto conforme a classificação atribuída a cada critério. Para um critério beneficial, quanto maior o valor, melhor. Para um critério não-beneficial, quanto menor o valor, melhor. 
-
- 
+\
+\
 
 **4.** São atribuídos valores linguísticos de importância para cada critério avaliado utilizando a escala abaixo:
 
@@ -179,8 +179,8 @@ Os elementos da matriz normalizada são definidos conforme a expressão abaixo:
 |     **Muito Alto**     | **MA** |
 | **Extremamente Alto**  | **EA** |
 
- 
-
+\ 
+\
 **5.** Os valores linguísticos são convertidos para números fuzzy triangulares, conforme a tabela a seguir.
 
 
@@ -209,15 +209,15 @@ As funções de pertinência correspondentes a cada valor linguístico são defi
 
 Dessa forma, um peso fuzzy correspondente por exemplo a uma avaliação *Médio (M)* é representado pelo número fuzzy triangular *A=[0.3 , 0.5 , 0.7]*.
 
-
-
+\
+\
 **6.** São aplicados os pesos fuzzy (*w*) correspondentes aos elementos da matriz normalizada, obtendo-se dessa forma a matriz normalizada com pesos.
 
  ![eq4](E:\Users\DELL PC\Desktop\Arquivos GitHub\eq4.JPG) 
 
 Onde *Ñ*ij=(*wj1Nij, wj2Nij, wj3Nij*), sendo i=1,...,m e j=1,...,n.
-
- 
+\
+\
 
 **7.** Calcula-se a Solução Fuzzy Ideal Positiva (*Fuzzy Positive Ideal Solution - FPIS*), representada por Ãj+ e a Solução Fuzzy Ideal Negativa (*Fuzzy Negative Ideal Solution - FNIS*), representada por Ãj-
 
@@ -226,7 +226,8 @@ Onde *Ñ*ij=(*wj1Nij, wj2Nij, wj3Nij*), sendo i=1,...,m e j=1,...,n.
 \- Para um critério não-beneficial (NB), a solução ideal positiva (Ãj+) será o menor valor encontrado entre os critérios e a solução ideal negativa (Ãj-) será o maior valor encontrado.
 
  							![eq5](E:\Users\DELL PC\Desktop\Arquivos GitHub\eq5.JPG) 
-
+\
+\
  **8.** As distâncias euclidianas de cada alternativa para FPIS (representada por Si+) e para FNIS (representada por Si-) são calculadas através da fórmula:
 
 ![eq6](E:\Users\DELL PC\Desktop\Arquivos GitHub\eq6.JPG)
@@ -234,11 +235,13 @@ Onde *Ñ*ij=(*wj1Nij, wj2Nij, wj3Nij*), sendo i=1,...,m e j=1,...,n.
 onde *d(. , .)* representa a distância entre dois números fuzzy triangulares [al, am, au] e  [bl, bm, bu], calculada por:
 
 ![eq7](E:\Users\DELL PC\Desktop\Arquivos GitHub\eq7.JPG)
-
+\
+\
 **9.** Computa-se o coeficiente de proximidade CCi:
 
  												![eq8](E:\Users\DELL PC\Desktop\Arquivos GitHub\eq8.JPG)	 
-
+\
+\
 **10.** Com os valores de CCi computados, é feito o ranqueamento das alternativas.
 
  
