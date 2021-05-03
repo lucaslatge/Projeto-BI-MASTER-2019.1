@@ -105,9 +105,8 @@ A Técnica para Ordem de Preferência por Similaridade a Solução Ideal (TOPSIS
 *d.*  *Fuzzy TOPSIS*
 
 A extensão do método TOPSIS para um ambiente fuzzy foi proposta inicialmente por Chen [3], utilizando números fuzzy triangulares para substituir os valores numéricos das escalas linguísticas de peso. Através dele, o grau de importância dos pesos dos vários critérios avaliados é expresso por valores linguísticos. Estes valores linguísticos são então traduzidos para números fuzzy triangulares. A tabela abaixo ilustra um exemplo de conversão de valores linguísticos para números fuzzy triangulares.
-
- 
-
+\
+\
 **Tabela 1:** Conversão de valores linguísticos para números fuzzy triangulares
 
 |                        | **Limite Inferior** | **Limite Médio** | **Limite Superior** |
@@ -119,9 +118,9 @@ A extensão do método TOPSIS para um ambiente fuzzy foi proposta inicialmente p
 |        **Alto**        |         0,5         |       0,7        |         0,9         |
 |     **Muito Alto**     |         0,7         |       0,9        |          1          |
 | **Extremamente Alto**  |         0,9         |        1         |          1          |
-\
-\
-\
+
+
+
 **5.**  **DESENVOLVIMENTO DO ALGORITMO**
 
 O método Fuzzy TOPSIS utiliza uma matriz de decisão que contém as alternativas e os critérios a serem avaliados. A partir dessa matriz inicial, são aplicados os cálculos subsequentes para chegar ao resultado final, o Coeficiente de Proximidade (CCi), que expressará numericamente a melhor alternativa disponível.    
