@@ -248,7 +248,7 @@ onde *d(. , .)* representa a distância entre dois números fuzzy triangulares [
 
 Para o desenvolvimento do modelo de avaliação de performance da frota foi empregado o método Fuzzy TOPSIS. A plataforma selecionada para o desenvolvimento do código do algoritmo foi o software MATLAB, pela forma otimizada que esta ferramenta trabalha com cálculos envolvendo matrizes e pelos recursos disponíveis para a criação de uma aplicação executável fora da plataforma.
 
-Para alimentar e testar o modelo foi criada uma base de dados sintéticos relativos à diferentes aspectos da operação de uma frota de embarcações, conforme exibido no Anexo I. Para situar o problema dentro do contexto do mercado marítimo, foi estabelecido que a base de dados utilizada seria referente a uma frota de 6 navios e foram definidos 15 critérios de diferentes áreas operacionais para aplicação no modelo. Os critérios definidos foram: 
+Para alimentar e testar o modelo foi criada uma base de dados sintéticos relativos à diferentes aspectos da operação de uma frota de embarcações, conforme exibido no [Anexo I](https://github.com/lucaslatge/Projeto-BI-MASTER-2019.1/blob/main/Base%20de%20Dados.csv). Para situar o problema dentro do contexto do mercado marítimo, foi estabelecido que a base de dados utilizada seria referente a uma frota de 6 navios e foram definidos 15 critérios de diferentes áreas operacionais para aplicação no modelo. Os critérios definidos foram: 
 
  
 
