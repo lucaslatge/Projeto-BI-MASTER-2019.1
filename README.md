@@ -183,10 +183,10 @@ Os elementos da matriz normalizada são definidos conforme a expressão abaixo:
 \
 \
 **5.** Os valores linguísticos são convertidos para números fuzzy triangulares, conforme a tabela a seguir.
-
-
-
+\
+\
 **Tabela 4:** Escala de conversão dos pesos linguísticos para números fuzzy triangulares
+\
 
 |                        | **Limite Inferior** | **Limite Médio** | **Limite Superior** |
 | :--------------------: | :-----------------: | :--------------: | :-----------------: |
