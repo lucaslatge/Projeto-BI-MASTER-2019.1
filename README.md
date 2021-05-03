@@ -81,9 +81,8 @@ Na Figura 3, pode-se observar um exemplo de função de pertinência dentro de u
 \
 \
 Utilizando este método é possível modelar problemas de forma muito mais intuitiva e próxima ao raciocínio humano.
-
-
-
+\
+\
 *b.*  *MCDM*
 
 Tomada de decisão com múltiplos critérios (MCDM - Multiple Criteria Decision Making) é um dos ramos mais consideráveis da ciência da tomada de decisão (DM – Decision Making). Os métodos MCDM abrangem a tomada de decisão na presença de critérios múltiplos e algumas vezes conflitantes.
@@ -93,9 +92,8 @@ Um modelo MCDM é uma ferramenta eficaz para solução de problemas complexos qu
 Atualmente há estudos nas mais variadas áreas para aplicação de métodos MCDM. Alguns métodos comumente utilizados são AHP (Analytic Hierarchy Process), ANP (Analytic Network Process), TOPSIS (*Technique for Order of Preference by Similarity to Ideal Solution)*, Fuzzy AHP, Fuzzy ANP, Fuzzy TOPSIS, Análise Envoltória de Dados (DEA – Data Envelopment Analysis) e Fuzzy DEA.
 
 Processos de cálculo de performance podem ser altamente complexos de se modelar utilizando modelos matemáticos simples, pois envolvem diversos dados e critérios subjetivos. É necessário que um modelo traduza precisamente a intenção do tomador de decisão ao realizar o cálculo, evitando que sejam geradas contradições na classificação dos critérios. Dessa forma, o modelo de cálculo de performance deste projeto é considerado um processo MCDM, sendo necessário empregar um método adequado de tomada de decisão para alcançar o resultado desejado.
-
- 
-
+\
+\
 *c.*  *TOPSIS*
 
 A Técnica para Ordem de Preferência por Similaridade a Solução Ideal (TOPSIS) é atualmente um dos métodos mais populares de MCDM e tem sido aplicada com sucesso nas mais diversas áreas. Este método foi inicialmente desenvolvido por Hwang and Yoon [2] em 1981 para a solução de problemas MCDM e tem como princípio básico a seleção da alternativa com a menor distância da solução ideal positiva (a melhor opção) e a maior distância da solução ideal negativa (a pior opção). Usando normalização de vetores e aplicando pesos aos critérios avaliados, o método tem por finalidade ranquear as alternativas pelo valor obtido de Coeficiente de Proximidade (Closeness Coefficient – CCi). Este coeficiente indica as melhores alternativas dentro do cenário proposto, considerando os critérios e pesos definidos pelos especialistas.
