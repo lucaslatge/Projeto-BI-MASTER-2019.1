@@ -54,7 +54,7 @@ Seres humanos sempre precisam tomar decisões. Se os tomadores de decisão utili
 \
 ![logica](https://github.com/lucaslatge/imagens/blob/main/logica.JPG?raw=true) 
 
-&ensp; **Figura 1:** Exemplo de definição de categoria utilizando lógica fuzzy
+&emsp;&emsp; **Figura 1:** Exemplo de definição de categoria utilizando lógica fuzzy
 \
 \
 \
