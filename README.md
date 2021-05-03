@@ -295,9 +295,9 @@ O modelo de performance Fuzzy TOPSIS desenvolvido neste projeto, onde a opinião
 Foram realizadas dezenas de simulações utilizando a solução desenvolvida e pôde-se notar que a performance de uma mesma embarcação pode variar dramaticamente dependendo da opinião dos especialistas acerca da importância do critério avaliado e também de quais critérios são selecionados para a comparação.
 
 Abaixo segue um exemplo de uma das simulações, onde foram utilizados todos os 15 critérios disponíveis na base de dados. Neste exemplo foram testadas duas percepções de gestão diferentes, a primeira mais generalista, com as avaliações dos especialistas tendo foco numa operação atendendo aos padrões de conformidade e segurança. A segunda percepção teve um foco direcionado para a redução de custos, onde foi atribuída uma maior importância a critérios que envolvessem perda ou ganho financeiro.
-
-
-
+\
+\
+\
 ​				 	**Avaliação 1 - Generalista**												**Avaliação 2 - Redução de Custos**
 
 |               **Critérios**               | **Peso** |      |               **Critérios**               | **Peso** |
