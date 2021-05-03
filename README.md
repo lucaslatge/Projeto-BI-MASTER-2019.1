@@ -129,9 +129,8 @@ O método Fuzzy TOPSIS utiliza uma matriz de decisão que contém as alternativa
 A seguir se encontra o detalhamento de cada etapa executada pelo algoritmo do modelo de cálculo de performance:
 
 \
-\
 **1.** A base de dados contendo as alternativas e critérios é importada para o modelo. Essa base de dados obrigatoriamente deverá ser no formato:
-\
+
 
 
 **Tabela 2:** Formato da base de dados lida pelo modelo
