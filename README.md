@@ -180,7 +180,7 @@ Os elementos da matriz normalizada são definidos conforme a expressão abaixo:
 |     **Muito Alto**     | **MA** |
 | **Extremamente Alto**  | **EA** |
 
-\ 
+\
 \
 **5.** Os valores linguísticos são convertidos para números fuzzy triangulares, conforme a tabela a seguir.
 
