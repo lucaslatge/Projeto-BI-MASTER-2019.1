@@ -158,7 +158,7 @@ Sendo D=x*ij* a matriz de decisão criada, onde x*ij* pertence a ℝ.
 
 Os elementos da matriz normalizada são definidos conforme a expressão abaixo:
 
- 													![eq2](https://github.com/lucaslatge/imagens/blob/main/eq2.JPG?raw=true)
+![eq2](https://github.com/lucaslatge/imagens/blob/main/eq2.JPG?raw=true)
 \
 \
 \
@@ -227,7 +227,7 @@ Onde *Ñ*ij=(*wj1Nij, wj2Nij, wj3Nij*), sendo i=1,...,m e j=1,...,n.
 
 \- Para um critério não-beneficial (NB), a solução ideal positiva (Ãj+) será o menor valor encontrado entre os critérios e a solução ideal negativa (Ãj-) será o maior valor encontrado.
 
- 							![eq5](https://github.com/lucaslatge/imagens/blob/main/eq5.JPG?raw=true) 
+![eq5](https://github.com/lucaslatge/imagens/blob/main/eq5.JPG?raw=true) 
 \
 \
  **8.** As distâncias euclidianas de cada alternativa para FPIS (representada por Si+) e para FNIS (representada por Si-) são calculadas através da fórmula:
@@ -241,7 +241,7 @@ onde *d(. , .)* representa a distância entre dois números fuzzy triangulares [
 \
 **9.** Computa-se o coeficiente de proximidade CCi:
 
- 												![eq8](https://github.com/lucaslatge/imagens/blob/main/eq8.JPG?raw=true)	 
+![eq8](https://github.com/lucaslatge/imagens/blob/main/eq8.JPG?raw=true)	 
 \
 \
 **10.** Com os valores de CCi computados, é feito o ranqueamento das alternativas.
