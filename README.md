@@ -67,16 +67,16 @@ A lógica Fuzzy é uma técnica robusta para determinação e resolução de pro
 ​										![agua](https://github.com/lucaslatge/imagens/blob/main/agua.JPG?raw=true) 
 
 ​							       			&emsp;**Figura 2:** Expressão de problema real através da lógica fuzzy
-
-
-
+\
+\
+\
 Na Figura 3, pode-se observar um exemplo de função de pertinência dentro de um problema de definição de idade. Utilizando a lógica convencional, um tomador de decisão ficará restrito a uma única escolha para caracterizar determinado valor, como por exemplo, fazendo um inferência do tipo “uma pessoa de 30 anos é de Meia-Idade”. Porém, utilizando a lógica fuzzy, esta mesma definição pode ser mais abrangente e próxima do mundo real. Nesta situação, uma pessoa de 30 anos pode pertencer ao mesmo tempo a categoria de “Jovem” e “Meia-Idade”. 
 \
 \
 \
 ​								![pert](https://github.com/lucaslatge/imagens/blob/main/pert.JPG?raw=true) 
 
-&emsp;&emsp;&emsp;**Figura 3:** Exemplo de Função de Pertinência
+&emsp;&emsp;&emsp;&emsp;&emsp;**Figura 3:** Exemplo de Função de Pertinência
 \
 \
 \
