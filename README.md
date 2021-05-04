@@ -88,7 +88,7 @@ Utilizando este método é possível modelar problemas de forma muito mais intui
 
 Tomada de decisão com múltiplos critérios (MCDM - Multiple Criteria Decision Making) é um dos ramos mais consideráveis da ciência da tomada de decisão (DM – Decision Making). Os métodos MCDM abrangem a tomada de decisão na presença de critérios múltiplos e algumas vezes conflitantes.
 
-Um modelo MCDM é uma ferramenta eficaz para solução de problemas complexos que envolvem critérios qualitativos e quantitativos com várias alternativas de escolha. Critérios qualitativos são vagos e de difícil tradução numérica, tornando desafiadora sua inclusão em modelos de tomada de decisão. Através do MCDM é possível quantificar esses critérios, calcular um pontuação para cada alternativa e dessa forma auxiliar os tomadores de decisão a encontrar a alternativa ótima para o problema em questão.
+Um modelo MCDM é uma ferramenta eficaz para solução de problemas complexos que envolvem critérios qualitativos e quantitativos com várias alternativas de escolha. Critérios qualitativos são vagos e de difícil tradução numérica, tornando desafiadora sua inclusão em modelos de tomada de decisão. Através do MCDM é possível quantificar esses critérios, calcular uma pontuação para cada alternativa e dessa forma auxiliar os tomadores de decisão a encontrar a alternativa ótima para o problema em questão.
 
 Atualmente há estudos nas mais variadas áreas para aplicação de métodos MCDM. Alguns métodos comumente utilizados são AHP (Analytic Hierarchy Process), ANP (Analytic Network Process), TOPSIS (*Technique for Order of Preference by Similarity to Ideal Solution)*, Fuzzy AHP, Fuzzy ANP, Fuzzy TOPSIS, Análise Envoltória de Dados (DEA – Data Envelopment Analysis) e Fuzzy DEA.
 
